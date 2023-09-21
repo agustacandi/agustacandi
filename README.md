@@ -1,4 +1,4 @@
-![Bongo Cat](bongo-cat.gif)
+<!-- ![Bongo Cat](bongo-cat.gif) -->
 
 <p align="center">
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=agustacandi&hide_border=true&title_color=373e4d&text_color=3b4252&langs_count=8"/>
